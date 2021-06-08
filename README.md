@@ -1,5 +1,6 @@
 # plantuml_phpviewer
-PlantUML 파일 웹뷰어
+
+https://packagist.org/packages/jawira/plantuml
 
 platnuml 에서 제공하는 모듈이 composer 패키지에도 있어서
 가져와서 써본 것입니다.
