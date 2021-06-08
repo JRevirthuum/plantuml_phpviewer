@@ -1,0 +1,5 @@
+Alice -> Bob: hello
+Bob -> Alice: 리턴
+Beaver -> Alice: 친구
+Alice -> Test: 안 친해!
+
